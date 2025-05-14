@@ -70,3 +70,14 @@ Employee satisfaction scores also differ slightly by department. Finance employe
 Regarding tenure, Finance employees have the longest average years at the company (10.41 years), closely followed by HR (10.40 years). Sales and Marketing employees have slightly shorter tenures, averaging around 10 years, while Engineering employees have the shortest tenure at 9.66 years. This could mean that Finance and HR roles offer more stability, while Engineering might experience higher turnover rates.  
 
 When comparing performance ratings by gender, males have a slightly higher average performance score (3.09) compared to females (2.98). While the difference is minor, it raises questions about potential factors influencing performance assessments, such as job roles, workload distribution, or evaluation criteria.
+---
+
+***Group analysis***
+---
+ The average age by gender shows that males are slightly older on average (41.26 years) compared to females (40.15 years). While the difference is minimal, it might reflect variations in hiring trends or career progression between genders.  
+
+Across departments, Engineering has the highest average age (41.87 years), followed closely by Marketing (41.63 years) and HR (40.81 years). Finance and Sales have slightly younger employees, with averages of 39.35 and 39.81 years, respectively. This suggests that technical roles in Engineering might require more experience, leading to an older workforce.  
+
+When analyzing salary based on years at the company, there is no clear upward trend. Employees with 17 years of experience earn the highest average salary ($71,810), while those with 9 years earn the lowest ($58,221). Salaries fluctuate at different tenure levels, possibly due to promotions, role changes, or variations in company pay structures over time.  
+
+Finally, when looking at tenure by gender, males have a longer average stay at the company (10.51 years) compared to females (9.68 years). This may suggest differences in career longevity, turnover rates, or workplace retention factors between genders.
