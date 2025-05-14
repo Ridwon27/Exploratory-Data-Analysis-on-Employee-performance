@@ -61,4 +61,12 @@ Looking at the distribution of employees by department, Marketing has the highes
 When it comes to performance ratings, the most common rating is 5, received by 111 employees, while 101 employees received the lowest rating of 1. The distribution across other ratings (2, 3, and 4) is relatively even. This indicates that while some employees perform exceptionally well, there are also a significant number of employees who may need improvement or support.
 
 ---
+**Bivariate Analysis**
+---
+The average salary varies across departments, with Sales employees earning the highest average salary of approximately $68,376, followed by Finance at $65,419. HR and Marketing have similar average salaries, around $64,129 and $65,009, respectively, while Engineering has the lowest average salary at about $61,315. This suggests that Sales roles might offer higher incentives or commissions compared to other departments.  
 
+Employee satisfaction scores also differ slightly by department. Finance employees have the highest average satisfaction score of 5.70, followed by Sales at 5.60, and Marketing at 5.53. Engineering employees report the lowest satisfaction, with an average score of 5.35. While the differences are not drastic, they may indicate variations in work culture, workload, or job expectations across departments.  
+
+Regarding tenure, Finance employees have the longest average years at the company (10.41 years), closely followed by HR (10.40 years). Sales and Marketing employees have slightly shorter tenures, averaging around 10 years, while Engineering employees have the shortest tenure at 9.66 years. This could mean that Finance and HR roles offer more stability, while Engineering might experience higher turnover rates.  
+
+When comparing performance ratings by gender, males have a slightly higher average performance score (3.09) compared to females (2.98). While the difference is minor, it raises questions about potential factors influencing performance assessments, such as job roles, workload distribution, or evaluation criteria.
