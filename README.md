@@ -70,8 +70,9 @@ Employee satisfaction scores also differ slightly by department. Finance employe
 Regarding tenure, Finance employees have the longest average years at the company (10.41 years), closely followed by HR (10.40 years). Sales and Marketing employees have slightly shorter tenures, averaging around 10 years, while Engineering employees have the shortest tenure at 9.66 years. This could mean that Finance and HR roles offer more stability, while Engineering might experience higher turnover rates.  
 
 When comparing performance ratings by gender, males have a slightly higher average performance score (3.09) compared to females (2.98). While the difference is minor, it raises questions about potential factors influencing performance assessments, such as job roles, workload distribution, or evaluation criteria.
----
 
+
+---
 ***Group analysis***
 ---
  The average age by gender shows that males are slightly older on average (41.26 years) compared to females (40.15 years). While the difference is minimal, it might reflect variations in hiring trends or career progression between genders.  
