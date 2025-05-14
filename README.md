@@ -50,7 +50,7 @@ Interpretation: Most employees have been with the company for 5 to 15 years.
 
 ---
 
-#**Univariate Analysis**
+**Univariate Analysis**
 
 ---
 
@@ -58,4 +58,7 @@ The gender distribution in the company is nearly balanced, with 253 female emplo
 
 Looking at the distribution of employees by department, Marketing has the highest number of employees (112), followed closely by Sales (109). HR, Finance, and Engineering have slightly fewer employees, with Engineering having the least at 91. This suggests that the company places a strong focus on marketing and sales, possibly due to business needs or company strategy.  
 
-When it comes to performance ratings, the most common rating is 5, received by 111 employees, while 101 employees received the lowest rating of 1. The distribution across other ratings (2, 3, and 4) is relatively even. This indicates that while some employees perform exceptionally well, there are also a significant number of employees who may need improvement or support.  
+When it comes to performance ratings, the most common rating is 5, received by 111 employees, while 101 employees received the lowest rating of 1. The distribution across other ratings (2, 3, and 4) is relatively even. This indicates that while some employees perform exceptionally well, there are also a significant number of employees who may need improvement or support.
+
+---
+
