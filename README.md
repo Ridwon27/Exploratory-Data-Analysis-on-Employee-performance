@@ -82,3 +82,16 @@ Across departments, Engineering has the highest average age (41.87 years), follo
 When analyzing salary based on years at the company, there is no clear upward trend. Employees with 17 years of experience earn the highest average salary ($71,810), while those with 9 years earn the lowest ($58,221). Salaries fluctuate at different tenure levels, possibly due to promotions, role changes, or variations in company pay structures over time.  
 
 Finally, when looking at tenure by gender, males have a longer average stay at the company (10.51 years) compared to females (9.68 years). This may suggest differences in career longevity, turnover rates, or workplace retention factors between genders.
+
+
+---
+
+### Correlation Analysis  
+---
+The correlation matrix reveals weak relationships among the numerical variables in the dataset. Performance rating has a very slight positive correlation (0.07) with satisfaction score, suggesting that employees with higher performance ratings may be slightly more satisfied, though the effect is minimal.  
+
+Salary shows almost no correlation with performance rating (-0.009) and a very weak negative correlation with satisfaction score (-0.03), indicating that higher salaries do not necessarily lead to better performance or higher satisfaction. Similarly, salary has a weak negative correlation with age (-0.06), meaning older employees do not necessarily earn more.  
+
+Years at the company has a near-zero correlation with salary (0.007) and performance rating (0.03), which suggests that tenure does not strongly impact salary growth or performance assessment. Satisfaction score also shows little to no correlation with age (0.01) and years at the company (0.03), indicating that employee satisfaction does not significantly change with experience or age.  
+
+Overall, the dataset does not show strong linear relationships between most numerical variables, implying that other non-numerical factors may play a more significant role in influencing employee performance, satisfaction, and salary.
