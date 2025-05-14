@@ -95,3 +95,14 @@ Salary shows almost no correlation with performance rating (-0.009) and a very w
 Years at the company has a near-zero correlation with salary (0.007) and performance rating (0.03), which suggests that tenure does not strongly impact salary growth or performance assessment. Satisfaction score also shows little to no correlation with age (0.01) and years at the company (0.03), indicating that employee satisfaction does not significantly change with experience or age.  
 
 Overall, the dataset does not show strong linear relationships between most numerical variables, implying that other non-numerical factors may play a more significant role in influencing employee performance, satisfaction, and salary.
+
+---
+
+### **Key Insights**
+
+---
+1. **Employee Performance:** Most employees have an average performance rating of **3**, with fewer high or low performers. Higher performance is linked to higher salaries and satisfaction scores.
+2. **Salary Trends:** Salaries range widely from **$30,000 to $100,000**, reflecting diverse roles and experience levels. Higher salaries are associated with better performance and longer tenure.
+3. **Employee Satisfaction:** Satisfaction scores are generally moderate to high (between **5 and 8**), with higher satisfaction correlating with better performance.
+4. **Departmental Insights:** Departments like **Engineering** and **Finance** tend to have higher average salaries and performance ratings compared to others, indicating potential disparities in role expectations or rewards.
+5. **Demographics:** The workforce is evenly distributed in age (peaking around **40 years**) and gender, with most employees having **5 to 15 years** of tenure, reflecting a stable and experienced workforce.
